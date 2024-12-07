@@ -1,0 +1,39 @@
+{
+  "name": "Vehicle Care Tips",
+  "short_name": "VCTips",
+  "scope": "https://www.vehiclecaretips.com/",
+  "start_url": "https://www.vehiclecaretips.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Practical tips and reviews to keep your vehicle in top shape.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizxUANowwkMSuQ1CU0tPaduWhYe-GhArUP_4Gf9zcxWMRB2QhRGGqStKqd0sAX5PG4SGjZBcb8hMP0IFjAbewDm6v5YbKAzTcmO1JR_D5hdVNlC8wL3urc724IU3k27kppHZsFksE4GB9Or1S-MmS-GUGtZSksTyNuDu4RPo3paWm9_9PFx2pxgu0pvkhK/s48/favcar.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizxUANowwkMSuQ1CU0tPaduWhYe-GhArUP_4Gf9zcxWMRB2QhRGGqStKqd0sAX5PG4SGjZBcb8hMP0IFjAbewDm6v5YbKAzTcmO1JR_D5hdVNlC8wL3urc724IU3k27kppHZsFksE4GB9Or1S-MmS-GUGtZSksTyNuDu4RPo3paWm9_9PFx2pxgu0pvkhK/s72/favcar.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizxUANowwkMSuQ1CU0tPaduWhYe-GhArUP_4Gf9zcxWMRB2QhRGGqStKqd0sAX5PG4SGjZBcb8hMP0IFjAbewDm6v5YbKAzTcmO1JR_D5hdVNlC8wL3urc724IU3k27kppHZsFksE4GB9Or1S-MmS-GUGtZSksTyNuDu4RPo3paWm9_9PFx2pxgu0pvkhK/s96/favcar.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizxUANowwkMSuQ1CU0tPaduWhYe-GhArUP_4Gf9zcxWMRB2QhRGGqStKqd0sAX5PG4SGjZBcb8hMP0IFjAbewDm6v5YbKAzTcmO1JR_D5hdVNlC8wL3urc724IU3k27kppHZsFksE4GB9Or1S-MmS-GUGtZSksTyNuDu4RPo3paWm9_9PFx2pxgu0pvkhK/s144/favcar.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizxUANowwkMSuQ1CU0tPaduWhYe-GhArUP_4Gf9zcxWMRB2QhRGGqStKqd0sAX5PG4SGjZBcb8hMP0IFjAbewDm6v5YbKAzTcmO1JR_D5hdVNlC8wL3urc724IU3k27kppHZsFksE4GB9Or1S-MmS-GUGtZSksTyNuDu4RPo3paWm9_9PFx2pxgu0pvkhK/s168/favcar.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizxUANowwkMSuQ1CU0tPaduWhYe-GhArUP_4Gf9zcxWMRB2QhRGGqStKqd0sAX5PG4SGjZBcb8hMP0IFjAbewDm6v5YbKAzTcmO1JR_D5hdVNlC8wL3urc724IU3k27kppHZsFksE4GB9Or1S-MmS-GUGtZSksTyNuDu4RPo3paWm9_9PFx2pxgu0pvkhK/s192/favcar.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizxUANowwkMSuQ1CU0tPaduWhYe-GhArUP_4Gf9zcxWMRB2QhRGGqStKqd0sAX5PG4SGjZBcb8hMP0IFjAbewDm6v5YbKAzTcmO1JR_D5hdVNlC8wL3urc724IU3k27kppHZsFksE4GB9Or1S-MmS-GUGtZSksTyNuDu4RPo3paWm9_9PFx2pxgu0pvkhK/s512/favcar.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
